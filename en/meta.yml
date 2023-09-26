@@ -1,11 +1,9 @@
-title: default-project-template
+title: micro:bit repeat
 hero_image: images/banner.png
-description: default-project-template description
+description: How to repeat something a fixed number of times 
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2023-09-26"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
