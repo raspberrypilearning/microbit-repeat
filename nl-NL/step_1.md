@@ -1,6 +1,6 @@
-If you want something in your code to happen a **fixed** number of times, you can use a `repeat`{:class='microbitloops'} block.
+Als je wilt dat iets in je code een **vast** aantal keren gebeurt, kun je een `keer herhalen`{:class='microbitloops'} blok gebruiken.
 
-You used a repeat block in the Sleep tracker project to repeat the animation twice.
+Je hebt een keer herhalen blok in het Slaap-monitor project gebruikt om de animatie twee keer te herhalen.
 
 ```microbit
 function zZ () {
@@ -30,4 +30,4 @@ function zZ () {
 }
 ```
 
-- You can find the `repeat`{:class='microbitloops'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
+- Je vindt het `keer herhalen`{:class='microbitloops'} blok in het `Lussen`{:class='microbitloops'} menu in je Toolbox.
