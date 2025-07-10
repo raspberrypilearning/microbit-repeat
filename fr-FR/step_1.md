@@ -1,6 +1,6 @@
-If you want something in your code to happen a **fixed** number of times, you can use a `repeat`{:class='microbitloops'} block.
+Si tu souhaites que quelque chose dans ton code se produise un nombre **fixe** de fois, tu peux utiliser un bloc `répéter`{:class='microbitloops'}.
 
-You used a repeat block in the Sleep tracker project to repeat the animation twice.
+Tu peux utiliser un bloc répéter dans le projet Suivi du sommeil pour répéter l'animation deux fois.
 
 ```microbit
 function zZ () {
@@ -30,4 +30,4 @@ function zZ () {
 }
 ```
 
-- You can find the `repeat`{:class='microbitloops'} block in the `Loops`{:class='microbitloops'} menu in your Toolbox.
+- Tu peux trouver le bloc `répéter`{:class='microbitloops'} dans le menu `Boucles`{:class='microbitloops'} dans ta boîte à outils.
